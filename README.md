@@ -1,7 +1,8 @@
 # Mobile Voting App
 A smartphone application for secure, transparent, and easy-to-use electronic voting.Users can only vote once, and the results are displayed immediately.
 
-#OBJECTIVES
+# OBJECTIVES
+
 To provide additional verification option, utilizing the built-in fingerprint and face recognition sensors/features of the mobile device, thus enhancing security.
 
 To expedite the voting process. Data in mobile applications is typically saved locally on the device, as opposed to web pages, which allows for quick data retrieval.
