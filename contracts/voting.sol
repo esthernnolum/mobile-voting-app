@@ -36,4 +36,5 @@ contract Voting{
     function voteBeta () public{
         localGovernment = localGovernment+1;
     }
+
 }
